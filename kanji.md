@@ -45,4 +45,5 @@
 東　- tou, higashi - East
 
 => 東京 - Tokyo 
+
 => 京都 - Kyoto 
