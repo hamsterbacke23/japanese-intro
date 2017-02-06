@@ -1,16 +1,16 @@
-## Tree
+## The Trunk of the Tree 
 
 木 - Ki - Tree
 
 本 - Hon, Moto - Source, Origin, Book
 
-## Japan
+## The Origin of the Sun
 
 日 - Ni, Nichi - Sun, Day
 
 => 日本 - Nihon, Nippon - Japan
 
-## Woman 
+## Women and Family
 
 女 - Onna - Woman
 
@@ -25,6 +25,10 @@
 病 - byou(ki) - ill
 	
 => 嫉 - sone(mu) - being jealous
+
+## Cheap
+
+安 - yasu(i) - cheap
 
 
 
