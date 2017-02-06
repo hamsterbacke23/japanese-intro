@@ -16,9 +16,9 @@
 
 子 - Ko - Child
 
-姦 - kashimashii - noisy
+姦 - kashi(mashii) - noisy
 
-=> 好 - suki - like
+=> 好 - su(ki) - like
 
 ## Jealousy
 
