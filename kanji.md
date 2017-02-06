@@ -23,18 +23,36 @@
 
 姦 - kashi(mashii) - noisy
 
-=> 好 - su(ki) - like
+=> 好 - su(ki) - to like
 
 ## Jealousy
 
 病 - byou(ki) - ill
 	
-=> 嫉 - sone(mu) - being jealous
+=> 嫉 - sone(mu) - jealous
 
 ## Cheap
 
 安 - yasu(i) - cheap
 
+## Heart 
+
+心　- kokoro - Heart
+
+必 - kanara(zu) - certain, inevitable
+
+愛　- ai - Love
+
+## Ninja
+
+刃 - jin - Sword
+
+忍 - nin - Patience
+
+者 - mono - Person
+
+=> 忍者 - Ninja
+　
 ## Senses
 
 目 - me - Eye
@@ -45,7 +63,7 @@
 
 山　- yama - Mountain
 
-凸凹　- dekobobo - Uneven
+凸凹　- dekobobo - uneven
 
 ## Cities
 
