@@ -1,4 +1,5 @@
-# japanese-intro
+# Contents
 Just some basic Japanese:
 
-[Japanese Kanji](kanji.md)
+- [Japanese Expressions](expressions.md)
+- [Japanese Kanji](kanji.md)
