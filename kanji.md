@@ -43,6 +43,7 @@
 
 愛　- ai - Love
 
+
 ## Ninja
 
 刃 - jin - Sword
@@ -53,6 +54,7 @@
 
 => 忍者 - Ninja
 　
+
 ## Senses
 
 目 - me - Eye
