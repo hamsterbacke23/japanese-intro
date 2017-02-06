@@ -30,5 +30,10 @@
 
 安 - yasu(i) - cheap
 
+## Other
+
+山　- yama - Mountain
+
+凸凹　- dekobobo - Uneven
 
 
