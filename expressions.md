@@ -1,27 +1,40 @@
-## All are impolite, common language expressions
+## Impolite, common language expressions
 
-## Hello world
+### Hello world
 
 こんにちは - konnichiwa - Hello
 
-## Whats up?
+### Whats up?
 
 お元気？　- Genki? - How is it going?
  
 元気です - Un, genki da yo - Yes, I'm fine
 
-## .. what?
+## Polite language expressions
 
-何？　- Nani - What?
+### .. what?
 
-XYは何？　- XY ha nani? - What is XY?
+XYは何ですか？　- XY ha nan desuka? - What is XY?
 
-## .. where?
+### .. where?
  
-XYはどこですか？　- XY ha doko? - Where is XY?
+XYはどこですか？　- XY ha doko desuka? - Where is XY?
+
+### .. why?
+
+なんでですか？ - nande desuka? - why?　
  
-## .. how?
+### .. how?
  
-どうやってXYできる？ - Dou yatte XY dekiru? - How can I/you do XY?
+どうやってXYできますか？ - Dou yatte XY dekimasuka ? - How can I/you do XY?
  
  
+## Even more polite language expressions
+
+### It was a good meal!
+
+ごちそうさまでした！ - Go-chisousama deshita! - It was a good meal (thanks to you)
+
+### Had enough
+
+結構です　- kekkou desu - I'm finde / had enough 
