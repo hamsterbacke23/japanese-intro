@@ -36,4 +36,13 @@
 
 凸凹　- dekobobo - Uneven
 
+## Cities
 
+京 - kyou - Capital
+
+都 - to - City
+
+東　- tou, higashi - East
+
+=> 東京 - Tokyo 
+=> 京都 - Kyoto 
