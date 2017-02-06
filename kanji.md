@@ -8,7 +8,12 @@
 
 日 - Ni, Nichi - Sun, Day
 
+人 - Hito, Jin - Human, Man
+
 => 日本 - Nihon, Nippon - Japan
+
+=> 日本人 - Nihon-jin - Japanese Person
+
 
 ## Women and Family
 
