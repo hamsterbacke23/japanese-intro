@@ -30,7 +30,13 @@
 
 安 - yasu(i) - cheap
 
-## Other
+## Senses
+
+目 - me - Eye
+
+見 - mi(ru) - to see
+
+## Nature
 
 山　- yama - Mountain
 
