@@ -25,6 +25,8 @@
 
 => 好 - su(ki) - to like
 
+=> 桜 - Sakura - Cherry Blossom
+
 ## Jealousy
 
 病 - byou(ki) - ill
