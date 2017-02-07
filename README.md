@@ -1,5 +1,3 @@
-# Contents
-Just some basic Japanese:
-
+## Contents
 - [Japanese Expressions](expressions.md)
 - [Japanese Kanji](kanji.md)
