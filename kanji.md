@@ -67,7 +67,7 @@
 => 忍者 - Ninja
 　
 
-## Senses
+## Body
 
 目 - me - Eye
 
@@ -76,6 +76,8 @@
 口 - kuchi - Mouth
 
 耳 - mimi - Ear
+
+手 - te - Hand
 
 ## Nature
 
