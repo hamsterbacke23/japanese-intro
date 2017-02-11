@@ -20,12 +20,6 @@
 
 => 日本人 - Nihon-jin - Japanese Person
 
-## Basics
-
-中 - naka - middle,
-
-田 - ta - rice paddy
-
 ## Women and Family
 
 女 - Onna - Woman
@@ -38,15 +32,14 @@
 
 => 桜 - Sakura - Cherry Blossom
 
-## Jealousy
-
-病 - byou(ki) - ill
-	
-=> 嫉 - sone(mu) - jealous
-
-## Cheap
+## Some more basics...
 
 安 - yasu(i) - cheap
+
+中 - naka - middle
+
+田 - ta - rice paddy
+
 
 ## Heart 
 
@@ -55,6 +48,12 @@
 必 - kanara(zu) - certain, inevitable
 
 愛　- ai - Love
+
+## Jealousy
+
+病 - byou(ki) - ill
+	
+=> 嫉 - sone(mu) - jealous
 
 
 ## Ninja
