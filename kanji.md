@@ -1,6 +1,12 @@
-## The Trunk of the Tree 
+## One tree, two trees ...
 
 木 - Ki - Tree
+
+林 - Hayashi - Small Forrest
+
+森 - Mori - Forrest
+
+## The Trunk of the Tree 
 
 本 - Hon, Moto - Source, Origin, Book
 
