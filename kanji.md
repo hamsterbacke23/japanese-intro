@@ -14,6 +14,11 @@
 
 => 日本人 - Nihon-jin - Japanese Person
 
+## Basics
+
+中 - naka - middle,
+
+田 - ta - rice paddy
 
 ## Women and Family
 
@@ -64,6 +69,8 @@
 見 - mi(ru) - to see
 
 ## Nature
+
+川 - kawa - River
 
 山　- yama - Mountain
 
