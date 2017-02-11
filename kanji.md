@@ -73,6 +73,10 @@
 
 見 - mi(ru) - to see
 
+口 - kuchi - Mouth
+
+耳 - mimi - Ear
+
 ## Nature
 
 川 - kawa - River
