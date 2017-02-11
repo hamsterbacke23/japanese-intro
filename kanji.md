@@ -49,13 +49,6 @@
 
 愛　- ai - Love
 
-## Jealousy
-
-病 - byou(ki) - ill
-	
-=> 嫉 - sone(mu) - jealous
-
-
 ## Ninja
 
 刃 - jin - Sword
@@ -65,7 +58,12 @@
 者 - mono - Person
 
 => 忍者 - Ninja
-　
+
+## Ill & jealous
+
+病 - byou(ki) - ill
+	
+=> 嫉 - sone(mu) - jealous
 
 ## Body
 
