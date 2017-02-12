@@ -77,6 +77,14 @@
 
 手 - te - Hand
 
+## Music
+
+楽 - gaku, raku, tano(shii) - fun, ease
+
+音 - on - Sound
+
+音楽 - ongaku - Music
+
 ## Nature
 
 川 - kawa - River
