@@ -1,0 +1,47 @@
+{
+  "chapters" :
+  [
+    {
+    "title" : "Basics",
+    "steps" :
+    [
+        {
+          "title": "One tree, two trees ...",
+          "cards" : ["木", "林", "森", "本"]
+        },
+        {
+          "title": "The Origin of the Sun",
+          "cards" : ["日", "人", "日本", "日本人"]
+        }
+      ]
+    },
+    {
+    "title" : "Family",
+    "steps" :
+    [
+        {
+          "title": "Women and child",
+          "cards" : ["女", "子"]
+        },
+        {
+          "title": "What does it mean?",
+          "cards" : ["姦", "好", "桜"]
+        }
+      ]
+    },
+    {
+    "title" : "Heart",
+    "steps" :
+    [
+        {
+          "title": "Women and familiy",
+          "cards" : ["心", "必", "愛"]
+        },
+        {
+          "title": "What does it mean?",
+          "cards" : ["刃", "忍", "者", "忍者"]
+        }
+      ]
+    }
+  ]
+}
