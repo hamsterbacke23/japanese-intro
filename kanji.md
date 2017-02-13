@@ -57,7 +57,7 @@
 
 者 - mono - Person
 
-=> 忍者 - Ninja
+忍者 - Ninja
 
 ## Ill & jealous
 
