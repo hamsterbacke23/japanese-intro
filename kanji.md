@@ -16,9 +16,9 @@
 
 人 - Hito, Jin - Human, Man
 
-=> 日本 - Nihon, Nippon - Japan
+日本 - Nihon, Nippon - Japan
 
-=> 日本人 - Nihon-jin - Japanese Person
+日本人 - Nihon-jin - Japanese Person
 
 ## Women and Family
 
@@ -28,9 +28,9 @@
 
 姦 - kashi(mashii) - noisy
 
-=> 好 - su(ki) - to like
+好 - su(ki) - to like
 
-=> 桜 - Sakura - Cherry Blossom
+桜 - Sakura - Cherry Blossom
 
 ## Some more basics...
 
@@ -63,7 +63,7 @@
 
 病 - byou(ki) - ill
 	
-=> 嫉 - sone(mu) - jealous
+嫉 - sone(mu) - jealous
 
 ## Body
 
@@ -101,6 +101,6 @@
 
 東　- tou, higashi - East
 
-=> 東京 - Tokyo 
+東京 - Tokyo 
 
-=> 京都 - Kyoto 
+京都 - Kyoto 
