@@ -37,4 +37,4 @@ XYはどこですか？　- XY ha doko desuka? - Where is XY?
 
 ### Had enough
 
-結構です　- kekkou desu - I'm finde / had enough 
+結構です　- kekkou desu - I'm fine / had enough 
